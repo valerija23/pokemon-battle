@@ -31,9 +31,9 @@ while True:
     print("2. Top 10 strongest pokemons")
     print("3. Top 10 weakest pokemons")
     print("4. Battle of 2 pokemons")
-    print("7. Exit")
+    print("5. Exit")
 
-    choice = input("Enter your choice (1-6): ")
+    choice = input("Enter your choice (1-5): ")
 
     if choice == '1':
         # https://www.w3schools.com/python/python_dictionaries_access.asp
