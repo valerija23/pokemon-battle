@@ -28,8 +28,8 @@ print(pokemons[0])
 
 while True:
     print("1. Show pokemon by index")
-    print("2. Top 10 strongest pokemons")
-    print("3. Top 10 weakest pokemons")
+    print("2. Top 10 strongest pokemons (by total)")
+    print("3. Top 10 weakest pokemons (by total)")
     print("4. Battle of 2 pokemons")
     print("5. Exit")
 
