@@ -46,11 +46,12 @@ while True:
         pass
     elif choice == '4':
         # Battle
+        # 
         # https://www.w3schools.com/python/ref_random_choice.asp - random choice
         # Computer choosing one random Pokemon from list
         # Player choosing by entering Pokemon index
         # Damage is calculated by: (attack of Pokemon 2) - (defense of Pokemon 1) + (random from 5 to 20), and vice-versa
-        # Player reaching 0 health - lost
+        # Player reaching 0 health (total) - lost
         pass
 
     elif choice == '5':
